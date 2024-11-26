@@ -7,14 +7,12 @@ export const loaderAnimation = [
 ]
 
 export const LINKS = {
-  github: 'https://github.com/bue221',
-  linkedin: 'https://www.linkedin.com/in/bue221/',
-  mail: 'mailto:camiloplaza3@gmail.com',
-  instagram: 'https://www.instagram.com/caj_ink/',
-  medium: 'https://ladvace.medium.com/',
-  discord: 'https://discordapp.com/users/163300027618295808',
+  github: 'https://github.com/estebanreyes93',
+  linkedin: 'https://www.linkedin.com/in/estebanreyes93/',
+  mail: 'mailto:estebanreyes93@hotmail.com',
+  instagram: 'https://www.instagram.com/ingestebanreyes/',
+  discord: 'https://discordapp.com/users/doppo#3495',
 }
-
 // Global
 export const SITE: Site = {
   TITLE: 'Astro Sphere',
